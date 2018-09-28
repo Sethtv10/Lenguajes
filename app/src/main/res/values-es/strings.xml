@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Idiomas</string>
+    <string name="hello_word">Hola Mundo</string>
+    <string name="extra_text">
+    El mirlo cantando en la muerte de la noche
+    Toma estas alas rotas y aprende a volar
+    Toda tu vida
+    Sólo esperabas que surgiera este momento.
+
+    El mirlo cantando en la muerte de la noche
+    Toma estos ojos hundidos y aprende a ver
+    Toda tu vida,
+    Solo esperabas este momento para ser libre.
+      </string>
+</resources>

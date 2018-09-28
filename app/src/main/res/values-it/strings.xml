@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Idiomi</string>
+    <string name="hello_word">Ciao Mondo</string>
+    <string name="extra_text">
+        Merlo che canta nel cuore della notte
+        Prendi queste ali spezzate e impara a volare
+        Tutta la tua vita
+        Stavi solo aspettando che sorgesse questo momento
+
+        Merlo che canta nel cuore della notte
+        Prendi questi occhi infossati e impara a vedere
+        Tutta la tua vita,
+        Stavi solo aspettando che questo momento fosse libero
+    </string>
+</resources>
+ 
